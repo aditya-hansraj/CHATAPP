@@ -7,7 +7,6 @@ This project is a chat application built with React on the client-side and Expre
 ## Features
 
 - Real-time messaging
-- User authentication
 - Server-side API for managing chat rooms and messages
 - Responsive UI design
 
