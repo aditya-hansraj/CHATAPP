@@ -16,7 +16,7 @@ Before running this project locally, ensure you have the following installed:
 
 - Node.js
 - npm (Node Package Manager) or yarn
-- MongoDB (if required for data storage)
+- REST APIs
 
 ## Getting Started
 
