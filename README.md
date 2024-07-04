@@ -58,10 +58,6 @@ Before running this project locally, ensure you have the following installed:
 
 To deploy this application, follow the deployment instructions for React and Express.js apps based on your hosting provider.
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or pull requests.
-
 ## License
 
 This project is licensed under the ISC License - see the LICENSE file for details.
